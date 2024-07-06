@@ -1,7 +1,8 @@
 ---
 title: "Unique tags validation"
-publishDate: "30 January 2023"
+publishDate: "30 January 2001"
 description: "This post is used for validating if duplicate tags are removed, regardless of the string case"
+draft: true
 tags: ["blog", "blog", "Blog", "test", "bloG", "Test", "BLOG"]
 ---
 
