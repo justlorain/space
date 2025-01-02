@@ -1,6 +1,6 @@
 ---
 title: "Building an LSM Tree Storage Engine from Scratch"
-description: "Building an LSM Tree Storage Engine from Scratch"
+description: "This article will guide you through understanding the Log-Structured Merge-Tree (LSM-Tree), including its core concepts and structure."
 publishDate: "2 Jan 2025"
 tags: ["tutorial", "go", "programming", "database"]
 ---
