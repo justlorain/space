@@ -1,6 +1,6 @@
 ---
-title: "Building an LSM-Tree Storage Engine from Scratch"
-description: "Building an LSM-Tree Storage Engine from Scratch"
+title: "Building an LSM Tree Storage Engine from Scratch"
+description: "Building an LSM Tree Storage Engine from Scratch"
 publishDate: "2 Jan 2025"
 tags: ["tutorial", "go", "programming", "database"]
 ---
