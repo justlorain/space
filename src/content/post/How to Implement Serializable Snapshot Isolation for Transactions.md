@@ -1,6 +1,6 @@
 ---
 title: "How to Implement Serializable Snapshot Isolation for Transactions"
-description: "This article will start with the basic concepts of transactions, introduce the various problems faced by concurrent transactions..."
+description: "This article will start with the basic concepts of transactions..."
 publishDate: "28 Apr 2025"
 tags: ["tutorial", "programming", "database"]
 ---
